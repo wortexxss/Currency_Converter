@@ -22,7 +22,7 @@ Clone the repository:
 bash
 Kopyala
 Düzenle
-git clone https://github.com/yourusername/currency-converter.git
+git clone https://github.com/wortexxss/Currency_Converter.git
 Compile the Java program:
 
 bash
